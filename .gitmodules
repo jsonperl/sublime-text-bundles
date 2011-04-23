@@ -1,0 +1,3 @@
+[submodule "haml-sass"]
+	path = haml-sass
+	url = https://github.com/nathansmith/sublime-text-haml-sass.git
