@@ -1,3 +1,9 @@
 [submodule "haml-sass"]
 	path = haml-sass
 	url = https://github.com/nathansmith/sublime-text-haml-sass.git
+[submodule "scss"]
+	path = scss
+	url = https://github.com/chriseppstein/SCSS.tmbundle.git
+[submodule "rspec"]
+	path = rspec
+	url = https://github.com/dchelimsky/rspec.git
