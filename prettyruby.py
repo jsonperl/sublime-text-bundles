@@ -1,6 +1,5 @@
 class PrettyrubyCommand(sublime_plugin.TextCommand):
   def run(self, edit):
-    print 'it works'
     view = self.view
     region = sublime.Region(0L, view.size())
 
