@@ -1,0 +1,13 @@
+/*
+On OS X, basic text manipulations (left, right, command+left, etc) make use of the system key bindings,
+and don't need to be repeated here. Anything listed here will take precedence, however.
+*/
+[
+	{ "keys": ["super+shift+left"], "command": "prev_view" },
+	{ "keys": ["super+shift+right"], "command": "next_view" },
+	{ "keys": ["super+down"], "command": "next_view_in_stack" },
+	{ "keys": ["super+up"], "command": "prev_view_in_stack" },
+	{ "keys": ["alt+tab"], "command": "indent" },
+	{ "keys": ["alt+shift+tab"], "command": "unindent" },
+	{ "keys": ["super+b"], "command": "prettyruby"}
+]
