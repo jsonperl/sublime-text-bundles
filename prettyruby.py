@@ -1,3 +1,5 @@
+import sublime_plugin, re
+
 class PrettyrubyCommand(sublime_plugin.TextCommand):
   def run(self, edit):
     view = self.view
