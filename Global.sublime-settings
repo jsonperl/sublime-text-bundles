@@ -1,0 +1,12 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+  // The number of spaces a tab is considered equal to
+  "tab_size": 2,
+
+  // Set to true to insert spaces when tab is pressed
+  "translate_tabs_to_spaces": true,
+
+  // Set to false for horizontal scrolling
+  "word_wrap": false
+}
