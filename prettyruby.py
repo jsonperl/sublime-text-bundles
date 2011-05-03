@@ -1,6 +1,6 @@
-import sublime_plugin, re
+import sublime, sublime_plugin, re
 
-class PrettyrubyCommand(sublime_plugin.TextCommand):
+class PrettyRubyCommand(sublime_plugin.TextCommand):
   def run(self, edit):
     view = self.view
     region = sublime.Region(0L, view.size())
