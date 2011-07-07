@@ -1,4 +1,4 @@
-HAML, SASS, RSpec
+HAML, SASS, RSpec, CoffeeScript
 pvar->
 beautify ruby (thanks Perry!)
 

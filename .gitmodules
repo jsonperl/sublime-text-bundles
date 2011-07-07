@@ -7,3 +7,6 @@
 [submodule "rspec"]
 	path = rspec
 	url = https://github.com/dchelimsky/rspec.git
+[submodule "coffeescript"]
+	path = coffeescript
+	url = https://github.com/jashkenas/coffee-script-tmbundle
