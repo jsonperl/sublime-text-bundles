@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>content</key>
+  <string>Debug.Log("${1:my_variable}: {0}", ${1:my_variable});
+</string>
+  <key>name</key>
+  <string>pvar</string>
+  <key>scope</key>
+  <string>source.cs</string>
+  <key>tabTrigger</key>
+  <string>pvar</string>
+  <key>uuid</key>
+  <string>CA386448-BE5A-455D-A4A0-818D73BCE862</string>
+</dict>
+</plist>
