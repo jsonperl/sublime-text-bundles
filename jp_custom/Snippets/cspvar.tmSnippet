@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>content</key>
-  <string>Debug.Log("${1:my_variable}: {0}", ${1:my_variable});
+  <string>Debug.Log(string.Format("${1:my_variable}: {0}", ${1:my_variable}));
 </string>
   <key>name</key>
   <string>pvar</string>
