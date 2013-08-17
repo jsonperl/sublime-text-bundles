@@ -4,3 +4,9 @@
 [submodule "packagecontrol"]
 	path = packagecontrol
 	url = https://github.com/wbond/sublime_package_control.git
+[submodule "submodules/rspec"]
+	path = submodules/rspec
+	url = https://github.com/SublimeText/RSpec.git
+[submodule "submodules/packagecontrol"]
+	path = submodules/packagecontrol
+	url = https://github.com/wbond/sublime_package_control.git
