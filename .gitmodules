@@ -10,3 +10,6 @@
 [submodule "submodules/packagecontrol"]
 	path = submodules/packagecontrol
 	url = https://github.com/wbond/sublime_package_control.git
+[submodule "submodules/theme_flatland"]
+	path = submodules/theme_flatland
+	url = https://github.com/thinkpixellab/flatland.git
