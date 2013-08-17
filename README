@@ -3,5 +3,5 @@ debug
 beautify ruby (thanks Perry!)
 
 To use, simply:
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
-git clone git@github.com:jsonperl/sublime-text-bundles.git --recursive
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/
+git clone git@github.com:jsonperl/sublime-text-bundles.git Packages --recursive
