@@ -1,9 +1,9 @@
 [submodule "Theme - Flatland"]
 	path = Theme - Flatland
 	url = https://github.com/thinkpixellab/flatland.git
-[submodule "package_control"]
-	path = package_control
-	url = https://github.com/wbond/sublime_package_control.git
 [submodule "RSpec"]
 	path = RSpec
 	url = https://github.com/SublimeText/RSpec.git
+[submodule "Package Control"]
+	path = Package Control
+	url = https://github.com/wbond/sublime_package_control.git
