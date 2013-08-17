@@ -1,12 +1,6 @@
-[submodule "haml-sass"]
-	path = haml-sass
-	url = https://github.com/nathansmith/sublime-text-haml-sass.git
-[submodule "scss"]
-	path = scss
-	url = https://github.com/chriseppstein/SCSS.tmbundle.git
 [submodule "rspec"]
 	path = rspec
-	url = https://github.com/dchelimsky/rspec.git
-[submodule "coffeescript"]
-	path = coffeescript
-	url = https://github.com/jashkenas/coffee-script-tmbundle
+	url = https://github.com/SublimeText/RSpec.git
+[submodule "packagecontrol"]
+	path = packagecontrol
+	url = https://github.com/wbond/sublime_package_control.git
