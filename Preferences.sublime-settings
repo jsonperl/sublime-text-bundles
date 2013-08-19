@@ -20,5 +20,8 @@
   // "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
   "color_scheme": "Packages/Railscasts.tmTheme",
   "font_face": "Liberation Mono",
-  "font_size": 16,
+  "font_size": 15,
+
+  // NO thank you
+  "auto_complete": false,
 }
